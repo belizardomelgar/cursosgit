@@ -18,6 +18,9 @@ public class Main {
         System.out.println("curso git dia 2");
         
         persona Persona = new persona();
+        System.out.println("mensaje 2");
+        System.out.println("mensaje 3");
+        
     }
     
 }
