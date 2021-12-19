@@ -9,15 +9,10 @@ package main;
  *
  * @author casa666
  */
-public class Main {
+public class persona {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("curso git dia 2");
-        
-        persona Persona = new persona();
+    public persona() {
+        System.out.println("iniciando la clase persona");
     }
     
 }
